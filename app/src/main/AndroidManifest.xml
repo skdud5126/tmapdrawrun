@@ -22,7 +22,7 @@
 
         <meta-data
             android:name="com.skt.Tmap.android.sdk.ApiKey"
-            android:value="LCC7kAAjZy7ohWN4g2udj52jb0P3dXaH7bVTjJ54" />
+            android:value="api_key" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
